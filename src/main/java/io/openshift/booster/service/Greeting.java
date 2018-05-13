@@ -20,7 +20,7 @@ public class Greeting {
     private final String content;
 
     public Greeting() {
-        //test
+        //test2
         this.content = null;
     }
 
